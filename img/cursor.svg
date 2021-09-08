@@ -1,0 +1,11 @@
+/* -------------s: cursor------------- */
+
+html, body {
+  cursor: none;
+}
+
+.mouse-cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  pointer-
