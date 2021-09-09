@@ -17,7 +17,7 @@
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work2.PNG" alt="">
+              <img src="./img/work2.PNG" alt="">
             </div>
             <div>
               <div>
@@ -39,7 +39,7 @@
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work3.PNG" alt="">
+              <img src="./img/work3.PNG" alt="">
             </div>
             <div>
               <div>
@@ -61,7 +61,7 @@
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work.PNG" alt="">
+              <img src="./img/work.PNG" alt="">
             </div>
             <div>
               <div>
@@ -83,7 +83,7 @@
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work4.PNG" alt="">
+              <img src="./img/work4.PNG" alt="">
             </div>
             <div>
               <div>
@@ -105,7 +105,7 @@
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work6.jpg" alt="">
+              <img src="./img/work6.jpg" alt="">
             </div>
             <div>
               <div>
@@ -120,14 +120,14 @@
                 <div class="main-color">Participation in work</div>
                 <div class="text-sm">기획 100%, 디자인 100%</div>
               </div>
-              <a href="img/work6.jpg" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
+              <a href="./img/work6.jpg" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
             </div>
           </div>
         </div>
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work5.PNG" alt="">
+              <img src="./img/work5.PNG" alt="">
             </div>
             <div>
               <div>
@@ -142,14 +142,14 @@
                 <div class="main-color">Participation in work</div>
                 <div class="text-sm">기획 100%, 디자인 100%</div>
               </div>
-              <a href="img/work5.png" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
+              <a href="./img/work5.png" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
             </div>
           </div>
         </div>
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work7.PNG" alt="">
+              <img src="./img/work7.PNG" alt="">
             </div>
             <div>
               <div>
@@ -164,14 +164,14 @@
                 <div class="main-color">Participation in work</div>
                 <div class="text-sm">기획 50%, 디자인 100%</div>
               </div>
-              <a href="img/yes24.png" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
+              <a href="./img/yes24.png" class="block mt-2 slide__btn" data-lightbox="pf">DESIGN</a>
             </div>
           </div>
         </div>
         <div class="swiper-slide">
           <div class="flex flex-col justify-between h-full leading-tight tracking-tighter slide-content nanumsquare">
             <div class="slide__image">
-              <img src="img/work8.PNG" alt="">
+              <img src="./img/work8.PNG" alt="">
             </div>
             <div>
               <div>
